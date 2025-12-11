@@ -91,8 +91,6 @@ I am an **aspiring Software Engineer** passionate about designing efficient syst
 
 <div align="center">
 
-### 🐍 Contribution Snake Animation
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 ### 🔥 GitHub Streak
