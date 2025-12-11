@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-<img align="right" src="https://media.giphy.com/media/SWoRKslHVtqjXVQ56d/giphy.gif" width="200" height="200" />
+<img align="right" src="[https://media.giphy.com/media/SWoRKslHVtqjXVQ56d/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFob2UxNTVnZmhodmNhYms1aXhmcmYwcmlnd3lpZjY0b3diMGtzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif)" width="200" height="200" />
 
 I am an **aspiring Software Engineer** passionate about designing efficient systems, building user-centric applications, and solving real-world problems through technology.
 
