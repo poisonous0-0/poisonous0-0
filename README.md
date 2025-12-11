@@ -97,15 +97,15 @@ I am an **aspiring Software Engineer** passionate about designing efficient syst
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=poisonous0-0&theme=dark&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=poisonous0-0&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=poisonous0-0&show_icons=true&hide_border=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=poisonous0-0&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" />
 
 ### 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poisonous0-0&layout=compact&hide_border=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poisonous0-0&layout=compact&hide_border=true&theme=dark" alt="Top Languages" />
 
 </div>
 
