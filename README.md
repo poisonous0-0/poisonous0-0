@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi, I'm Roy | Aspiring Software Engineer  
+# Hi, I'm Maaz Bin Hossain | Aspiring Software Engineer  
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 
 </div>
@@ -19,8 +19,10 @@ I believe in writing clean, scalable code and building products that create mean
 - Python  
 - JavaScript  
 - TypeScript  
-- C  
+- C
+-  C++
 - HTML & CSS
+- Java
 
 ### 🛠 Frameworks & Libraries  
 - React.js  
@@ -34,9 +36,8 @@ I believe in writing clean, scalable code and building products that create mean
 - VS Code  
 - Linux  
 - Vercel  
-- Netlify  
+- Onrender  
 - Firebase
-
 ---
 
 ## 🌟 What I’m Currently Working On
@@ -76,11 +77,11 @@ I believe in writing clean, scalable code and building products that create mean
 ## 📬 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/roy02-uiu/">
+<a href="[https://www.linkedin.com/in/roy02-uiu/](https://www.linkedin.com/in/maaz-bin-hossain-117490196/)">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:roysabbir090@gmail.com">
+<a href="mailto:mhossainsaki@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
